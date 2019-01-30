@@ -106,3 +106,15 @@ color:rgb(150,150,150);
     margin: auto;
   }
 }
+
+#sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: grey
+}
+#page-content {
+  margin-left: 100px;
+}
